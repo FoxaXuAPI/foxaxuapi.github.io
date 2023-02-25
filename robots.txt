@@ -1,0 +1,5 @@
+#FoxaXu Api
+# Dis Allow Every robots
+
+User-agent: *
+Disallow: /
